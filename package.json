@@ -1,0 +1,25 @@
+{
+  "name": "symbols-subset",
+  "version": "1.0.0",
+  "description": "npm package to subset Google Symbols and get a smaller font",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasdev/symbols-subset.git"
+  },
+  "keywords": [
+    "symbols",
+    "subset",
+    "google",
+    "icons"
+  ],
+  "author": "tomasroggero@google.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tomasdev/symbols-subset/issues"
+  },
+  "homepage": "https://github.com/tomasdev/symbols-subset#readme"
+}
