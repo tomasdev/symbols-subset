@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@font-face {
+    font-family: 'test';
+    src: url('test.ttf');
+}
+@keyframes symbols {
+    0% {
+        font-variation-settings: 'GRAD' -25, 'wght' 100;
+    }
+    100% {
+        font-variation-settings: 'GRAD' 200, 'wght' 700;
+    }
+}
+body {
+    animation: symbols 1s linear infinite alternate;
+    font-family: test;
+    font-size: 40px;
+}
+</style>
+</head>
+<body>
+
+<div>alarm_off</div>
+<div>add</div>
+
+</body>
+</html>

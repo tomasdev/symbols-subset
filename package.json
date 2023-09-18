@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/tomasdev/symbols-subset/issues"
   },
-  "homepage": "https://github.com/tomasdev/symbols-subset#readme"
+  "homepage": "https://github.com/tomasdev/symbols-subset#readme",
+  "dependencies": {
+    "harfbuzzjs": "^0.3.3"
+  }
 }
